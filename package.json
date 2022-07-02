@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/OrziII/Test/issues"
   },
-  "homepage": "https://github.com/OrziII/Test#readme"
+  "homepage": "https://github.com/OrziII/Test#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "jquery": "^3.6.0",
+    "vue": "^3.2.37"
+  }
 }
